@@ -1,6 +1,6 @@
 # Preview
 
-/react-crypto-tracker/React-Crypto-Tracker.png
+https://github.com/vitamaxoduol/react.crypto.tracker/blob/main/React-Crypto-Tracker.png
 
 # Getting Started with Create React App
 
